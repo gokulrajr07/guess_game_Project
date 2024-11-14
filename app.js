@@ -1,4 +1,4 @@
-var number=0,lives=10;
+var number=0,lives=5;
 function secondpage()
 {
     location.href="scn.html";
